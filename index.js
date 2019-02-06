@@ -8,7 +8,5 @@ function deepestChild() {
   return document.querySelector('div#grand-node div div div div')
 }
 function increaseRankBy(n) {
-  const lis = document
-  .getElementById('app')
-  .querySelectorAll('ul.ranked li');
+  
 }
